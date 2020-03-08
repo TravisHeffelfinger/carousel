@@ -1,0 +1,15 @@
+.first-slide .second-slide .third-slide .fourth-slide .fifth-slide {
+   object-fit: contain;
+
+}
+.container {
+    width: 50vw;
+    height: 30vw;
+}
+.caption-color {
+    color: white;
+}
+
+.caption {
+    background-color: rgb(211,211,211, 0.4);
+}
